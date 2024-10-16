@@ -4,7 +4,7 @@ I'm Pavan Vishwakarma, a BTech graduate in Civil Engineering. But don't let that
 
 ## My Coding Journey 🛤️
 
-My journey into the world of coding started with Python. The simplicity and power of Python fascinated me, and I quickly fell in love with coding. From there, I expanded my skills to include SQL, allowing me to effectively manage and manipulate databases.
+My journey into the world of coding started with Python,Java and C. The simplicity and power of Python fascinated me, and I quickly fell in love with coding. From there, I expanded my skills to include SQL, allowing me to effectively manage and manipulate databases.
 
 ## Libraries and Tools 🧰
 
