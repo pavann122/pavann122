@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Pavan Vishwakarma, a BTech graduate in Civil Engineering. But don't let that fool you - I'm also a passionate coder! 🚀
+I'm Pavan Vishwakarma, a BTech graduate - I'm also a passionate coder! 🚀
 
 ## My Coding Journey 🛤️
 
